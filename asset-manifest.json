@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-udemy/static/css/main.3cf81b4f.chunk.css",
+    "main.js": "/react-udemy/static/js/main.aeedd3b9.chunk.js",
+    "main.js.map": "/react-udemy/static/js/main.aeedd3b9.chunk.js.map",
+    "runtime-main.js": "/react-udemy/static/js/runtime-main.3f2848b8.js",
+    "runtime-main.js.map": "/react-udemy/static/js/runtime-main.3f2848b8.js.map",
+    "static/js/2.035e7d4a.chunk.js": "/react-udemy/static/js/2.035e7d4a.chunk.js",
+    "static/js/2.035e7d4a.chunk.js.map": "/react-udemy/static/js/2.035e7d4a.chunk.js.map",
+    "index.html": "/react-udemy/index.html",
+    "precache-manifest.cb4317cfef6322721fe45ca7a8f80a77.js": "/react-udemy/precache-manifest.cb4317cfef6322721fe45ca7a8f80a77.js",
+    "service-worker.js": "/react-udemy/service-worker.js",
+    "static/css/main.3cf81b4f.chunk.css.map": "/react-udemy/static/css/main.3cf81b4f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f2848b8.js",
+    "static/js/2.035e7d4a.chunk.js",
+    "static/css/main.3cf81b4f.chunk.css",
+    "static/js/main.aeedd3b9.chunk.js"
+  ]
+}
